@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:20.229558
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:35
 #+TITLE: 因明入正理論義纂要
 #+PROPERTY: CBETA_ID T44n1842
 #+PROPERTY: ID KR6o0019
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1842
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0019_T_000-0158b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0019_T_001-0158b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1842[cf.No.1630]¶
-
- 因明入正理論義纂要¶
+No. 1842 [cf. No. 1630]¶
+因明入正理論義纂要¶
 ¶
 淄洲大雲寺沙門慧沼集¶
 
@@ -361,7 +360,7 @@ No.1842[cf.No.1630]¶
 故。彼論次云。所類同法。不說能立所成立義。¶
 若顯因相云何難言不說能立。復云。非異品¶
 中不顯無性。有所簡別。此意難云。若異品中¶
-不顯無性。非能簡了。若顯無者何須此難。又¶
+不顯無性。非能簡了。若顯無者何須此難。叉¶
 復若取彼二上作與非作。及於聲有以為因¶
 者。何故復云。若唯宗法是因性者。其有不定。¶
 應亦成因。明知。不取瓶上所作亦為因也。若¶
